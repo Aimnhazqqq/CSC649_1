@@ -18,4 +18,4 @@ Empty input: Entering nothing or blank spaces correctly triggers the message: "Y
 Extra spaces: Handled properly via .split().
 
 ## Limitation
-Punctuation marks (such as commas or periods) are counted as part of the total character length.
+Punctuation marks (such as commas or periods) are counted as part of the total character length."# CSC649_1" 
